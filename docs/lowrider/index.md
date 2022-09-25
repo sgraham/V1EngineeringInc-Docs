@@ -257,7 +257,7 @@ This is what is needed for a 4' x 8' (1.2M x 2.4M) build. You will need more or 
 |24   |3mm x 12mm Wood/metal   |#4 x 1/2" Wood or Sheet metal screws           |
 |*22  |M4 x 12mm+ Wood/metal   |#8 x 1/2"+ Screws to mount things to your table|
 
-* Not included in the hardware kit. 
+`*` Not included in the hardware kit. 
 
 ### LR2 to LR3 hardware differences for updating your build
 |QTY  |Description             |US Equivalent                                  | 
